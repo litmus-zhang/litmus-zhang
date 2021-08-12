@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**litmus-zhang/litmus-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hello 👋🏾 👩🏾‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Lukman! I'm a software engineer and a Designer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
+
+Find me around the web 🌎:
+
+- Sharing updates on <a href="https://www.linkedin.com/in/Lukmon-Abdulsalam/">LinkedIn</a> 💼
+
+
+---
+⭐️ From [Lukman](https://github.com/Litmus-zhang)
